@@ -1,0 +1,13 @@
+# IDE Files
+.idea/
+.vscode/
+
+# Storage Files
+.DS_Store
+
+# Generated Files
+*.massdb
+*.massdb.cache
+
+# Binaries
+bin/
